@@ -74,6 +74,7 @@ button {
     max-width: 700px;
     margin: 0 auto;
     position: relative;
+    padding: 0 10px;
 }
 
 
@@ -145,3 +146,19 @@ textarea {
     border: 0;
 }
 
+.action {
+    color: #888;
+    font-size: 85%;
+}
+.action:hover {
+    color: #333;
+}
+
+.fr {
+    float: right;
+}
+
+
+.task-content {
+    margin-left: 8px;
+}
